@@ -1,0 +1,13 @@
+run
+project Bitcoin
+project bitcoin
+run 4
+time scala project1.scala
+time scala Bitcoin
+exit
+time 
+help
+project Bitcoin
+project bitcoin
+import sys.process_
+exit
